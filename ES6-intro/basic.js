@@ -23,3 +23,7 @@ numbers[2]=69; // put 69 in second index
 if (numbers.indexOf(222)!=-1){ /// check whether  222 in the array
 
 }
+
+//object
+const bottle = {color: 'red', contain:'water', price:50}
+
